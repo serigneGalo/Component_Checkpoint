@@ -1,0 +1,15 @@
+body{
+  background-color: #A45D5D;
+  color: #FFC069;
+  display: flex;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+  border: 2px solid #FFC069;
+  border-radius: 5px;
+}
+img{
+  border: 2px solid #FFC069;
+  border-radius: 5px;
+}
